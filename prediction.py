@@ -4,8 +4,6 @@ warnings.filterwarnings("ignore")
 import os
 import matplotlib.pyplot as plt
 import copy
-import logging
-import evaluate
 import random
 import numpy as np
 import pandas as pd
@@ -43,11 +41,6 @@ def get_test_data_result(dataset, saved_model_name):
             test_data['Result'][i] = "Pass"
         else:
             test_data['Result'][i] = "Fail"
-    
-    f1_metric = evaluate.load("f1")
-    results = f1_metric.compute(predictions=test_data['Pred_Scope'], references=test_data['Scope'])
-    logging.info(results)
-    print(results)
     
     test_data.to_csv(f'bayer_result_{current_time}.csv')
     acc = (len(test_data[test_data['Result']=='Pass'])/len(test_data))*100
