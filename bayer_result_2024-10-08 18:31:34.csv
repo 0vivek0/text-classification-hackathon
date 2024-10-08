@@ -1,0 +1,1001 @@
+,Text,Scope,Pred_Scope,Result
+0,The history of cloud services for AI development,1,1.0,Pass
+1,Introduction to database management for beginners,1,1.0,Pass
+2,Understanding Excel functions for automation,0,0.0,Pass
+3,How to manage Data analysis for automation,0,0.0,Pass
+4,Concept of Python programming for AI development,1,1.0,Pass
+5,The evolution of database management for data processing,1,1.0,Pass
+6,Best practices for Python programming in business,0,0.0,Pass
+7,How to manage cloud services for AI development,0,0.0,Pass
+8,Overview of cloud services in practice,1,1.0,Pass
+9,Exploring database management in business,1,1.0,Pass
+10,Concept of database management for AI development,1,1.0,Pass
+11,What is Python programming for beginners,1,1.0,Pass
+12,Overview of SQL queries for AI development,1,1.0,Pass
+13,Concept of SQL queries in finance,1,1.0,Pass
+14,What is database management for data processing,1,1.0,Pass
+15,The history of Machine learning models in business,1,1.0,Pass
+16,Mastering Data analysis for reporting,0,0.0,Pass
+17,Introduction to web development for beginners,1,1.0,Pass
+18,Steps to optimize cloud services for AI development,0,0.0,Pass
+19,What is cloud services for beginners,1,1.0,Pass
+20,Steps to optimize web development for automation,0,0.0,Pass
+21,The evolution of web development for AI development,1,1.0,Pass
+22,Mastering Excel functions in finance,0,0.0,Pass
+23,Background on cloud services for AI development,1,1.0,Pass
+24,The history of cloud services for AI development,1,1.0,Pass
+25,Best practices for web development for beginners,0,0.0,Pass
+26,Best practices for database management for reporting,0,0.0,Pass
+27,Steps to optimize SQL queries in finance,0,0.0,Pass
+28,What is SQL queries in finance,1,1.0,Pass
+29,Concept of web development for AI development,1,1.0,Pass
+30,Understanding Excel functions in business,0,0.0,Pass
+31,The evolution of Python programming for automation,1,1.0,Pass
+32,Tutorial on database management for AI development,0,0.0,Pass
+33,Tutorial on Machine learning models for automation,0,0.0,Pass
+34,Best practices for web development for reporting,0,0.0,Pass
+35,The evolution of Machine learning models in business,1,1.0,Pass
+36,Tutorial on Machine learning models for data processing,0,0.0,Pass
+37,Setting up Machine learning models for beginners,0,0.0,Pass
+38,Mastering web development for data processing,0,0.0,Pass
+39,Introduction to SQL queries for beginners,1,1.0,Pass
+40,Tutorial on cloud services for automation,0,0.0,Pass
+41,Tutorial on Excel functions for data processing,0,0.0,Pass
+42,Understanding cloud services for data processing,0,0.0,Pass
+43,What is Machine learning models for reporting,1,1.0,Pass
+44,Introduction to Python programming in finance,1,1.0,Pass
+45,Setting up Machine learning models for AI development,0,0.0,Pass
+46,How to manage web development for reporting,0,0.0,Pass
+47,Concept of Data analysis in finance,1,1.0,Pass
+48,Concept of cloud services for data processing,1,1.0,Pass
+49,Setting up database management for AI development,0,0.0,Pass
+50,Concept of Data analysis for beginners,1,1.0,Pass
+51,Mastering Python programming for automation,0,0.0,Pass
+52,The history of cloud services for automation,1,1.0,Pass
+53,What is Machine learning models in business,1,1.0,Pass
+54,The evolution of SQL queries in business,1,1.0,Pass
+55,Exploring database management for automation,1,1.0,Pass
+56,Tutorial on cloud services for data processing,0,0.0,Pass
+57,What is SQL queries for reporting,1,1.0,Pass
+58,Best practices for Machine learning models in finance,0,0.0,Pass
+59,Setting up database management for data processing,0,0.0,Pass
+60,Exploring Excel functions for reporting,1,1.0,Pass
+61,Mastering Data analysis for beginners,0,0.0,Pass
+62,Steps to optimize database management for AI development,0,0.0,Pass
+63,Mastering Machine learning models in practice,0,0.0,Pass
+64,Setting up Python programming for AI development,0,0.0,Pass
+65,Best practices for SQL queries for automation,0,0.0,Pass
+66,Concept of SQL queries for beginners,1,1.0,Pass
+67,What is Machine learning models in finance,1,1.0,Pass
+68,Guide to using Data analysis for AI development,0,0.0,Pass
+69,Understanding SQL queries in practice,0,0.0,Pass
+70,Concept of Machine learning models for data processing,1,1.0,Pass
+71,Understanding cloud services for beginners,0,0.0,Pass
+72,Exploring SQL queries for data processing,1,1.0,Pass
+73,What is web development for automation,1,1.0,Pass
+74,Concept of Machine learning models for beginners,1,1.0,Pass
+75,Guide to using web development for AI development,0,0.0,Pass
+76,The history of SQL queries in practice,1,1.0,Pass
+77,Concept of database management for data processing,1,1.0,Pass
+78,Best practices for cloud services in finance,0,0.0,Pass
+79,The history of Excel functions for beginners,1,1.0,Pass
+80,Guide to using database management in finance,0,0.0,Pass
+81,Exploring web development for automation,1,1.0,Pass
+82,Mastering SQL queries for AI development,0,0.0,Pass
+83,What is Data analysis for reporting,1,1.0,Pass
+84,Concept of database management in finance,1,1.0,Pass
+85,The history of Excel functions for data processing,1,1.0,Pass
+86,Setting up SQL queries in finance,0,0.0,Pass
+87,Steps to optimize Python programming in business,0,0.0,Pass
+88,Guide to using Data analysis for beginners,0,0.0,Pass
+89,Steps to optimize SQL queries for AI development,0,0.0,Pass
+90,Mastering Excel functions for automation,0,0.0,Pass
+91,The evolution of Python programming for reporting,1,1.0,Pass
+92,The history of Data analysis in finance,1,1.0,Pass
+93,Concept of Machine learning models in business,1,1.0,Pass
+94,What is cloud services for reporting,1,1.0,Pass
+95,The evolution of web development for data processing,1,1.0,Pass
+96,The evolution of SQL queries in practice,1,1.0,Pass
+97,How to manage cloud services for beginners,0,0.0,Pass
+98,Setting up Data analysis in finance,0,0.0,Pass
+99,Steps to optimize cloud services in practice,0,0.0,Pass
+100,Exploring Data analysis in practice,1,1.0,Pass
+101,Steps to optimize Data analysis in finance,0,0.0,Pass
+102,Setting up Excel functions in business,0,0.0,Pass
+103,Overview of Machine learning models for automation,1,1.0,Pass
+104,Mastering Python programming for data processing,0,0.0,Pass
+105,Exploring Python programming in business,1,1.0,Pass
+106,Introduction to database management for reporting,1,1.0,Pass
+107,The history of SQL queries for data processing,1,1.0,Pass
+108,How to manage database management for beginners,0,0.0,Pass
+109,The history of Python programming in practice,1,1.0,Pass
+110,Mastering SQL queries for data processing,0,0.0,Pass
+111,Exploring web development in practice,1,1.0,Pass
+112,Tutorial on Python programming for data processing,0,0.0,Pass
+113,How to manage Machine learning models for beginners,0,0.0,Pass
+114,The evolution of Excel functions in practice,1,1.0,Pass
+115,Background on database management in business,1,1.0,Pass
+116,Guide to using Machine learning models for reporting,0,0.0,Pass
+117,The history of Machine learning models for beginners,1,1.0,Pass
+118,Tutorial on Excel functions for AI development,0,0.0,Pass
+119,Exploring Excel functions for reporting,1,1.0,Pass
+120,The history of Data analysis in finance,1,1.0,Pass
+121,The evolution of Data analysis for reporting,1,1.0,Pass
+122,Best practices for database management in finance,0,0.0,Pass
+123,Tutorial on Data analysis for automation,0,0.0,Pass
+124,Setting up database management for AI development,0,0.0,Pass
+125,Best practices for Data analysis for beginners,0,0.0,Pass
+126,What is database management for automation,1,1.0,Pass
+127,Understanding database management in business,0,0.0,Pass
+128,The history of cloud services for AI development,1,1.0,Pass
+129,What is Machine learning models for automation,1,1.0,Pass
+130,Background on database management in practice,1,1.0,Pass
+131,Introduction to Machine learning models for automation,1,1.0,Pass
+132,Tutorial on SQL queries for beginners,0,0.0,Pass
+133,Guide to using SQL queries for beginners,0,0.0,Pass
+134,Background on SQL queries for beginners,1,1.0,Pass
+135,Concept of Machine learning models in practice,1,1.0,Pass
+136,Steps to optimize Python programming for beginners,0,0.0,Pass
+137,Concept of Machine learning models for reporting,1,1.0,Pass
+138,The history of Python programming for data processing,1,1.0,Pass
+139,How to manage Excel functions in finance,0,0.0,Pass
+140,What is Machine learning models for AI development,1,1.0,Pass
+141,Mastering SQL queries in business,0,0.0,Pass
+142,The evolution of SQL queries for beginners,1,1.0,Pass
+143,The history of Python programming for data processing,1,1.0,Pass
+144,Concept of web development in business,1,1.0,Pass
+145,Understanding database management in business,0,0.0,Pass
+146,The history of Data analysis in business,1,1.0,Pass
+147,Overview of Data analysis for beginners,1,1.0,Pass
+148,Tutorial on cloud services in business,0,0.0,Pass
+149,Concept of cloud services for automation,1,1.0,Pass
+150,Overview of cloud services in practice,1,1.0,Pass
+151,Overview of web development in finance,1,1.0,Pass
+152,The evolution of Excel functions for reporting,1,1.0,Pass
+153,Overview of web development for automation,1,1.0,Pass
+154,Mastering web development in business,0,0.0,Pass
+155,Concept of database management for automation,1,1.0,Pass
+156,Guide to using Data analysis for reporting,0,0.0,Pass
+157,Guide to using Python programming for reporting,0,0.0,Pass
+158,The history of Data analysis for data processing,1,1.0,Pass
+159,Overview of database management for AI development,1,1.0,Pass
+160,The history of Python programming for beginners,1,1.0,Pass
+161,Exploring Data analysis in business,1,1.0,Pass
+162,Setting up Python programming for AI development,0,0.0,Pass
+163,The history of SQL queries in finance,1,1.0,Pass
+164,How to manage Data analysis for data processing,0,0.0,Pass
+165,Exploring Data analysis for beginners,1,1.0,Pass
+166,Tutorial on cloud services for data processing,0,0.0,Pass
+167,Best practices for web development in finance,0,0.0,Pass
+168,Setting up Machine learning models for beginners,0,0.0,Pass
+169,Introduction to Python programming in business,1,1.0,Pass
+170,What is Python programming for AI development,1,1.0,Pass
+171,Exploring web development for reporting,1,1.0,Pass
+172,Concept of Excel functions in finance,1,1.0,Pass
+173,Exploring cloud services in business,1,1.0,Pass
+174,Understanding Machine learning models for automation,0,0.0,Pass
+175,What is Excel functions in business,1,1.0,Pass
+176,Guide to using web development for AI development,0,0.0,Pass
+177,What is web development for AI development,1,1.0,Pass
+178,Tutorial on Excel functions in business,0,0.0,Pass
+179,How to manage Python programming for AI development,0,0.0,Pass
+180,How to manage Python programming for reporting,0,0.0,Pass
+181,Mastering web development for data processing,0,0.0,Pass
+182,The history of Data analysis for automation,1,1.0,Pass
+183,Overview of Python programming in finance,1,1.0,Pass
+184,Mastering Machine learning models for automation,0,0.0,Pass
+185,Understanding Data analysis for AI development,0,0.0,Pass
+186,How to manage Python programming for AI development,0,0.0,Pass
+187,Introduction to SQL queries for data processing,1,1.0,Pass
+188,Guide to using web development in practice,0,0.0,Pass
+189,Background on database management for beginners,1,1.0,Pass
+190,Guide to using cloud services in practice,0,0.0,Pass
+191,How to manage SQL queries for AI development,0,0.0,Pass
+192,Understanding Excel functions for reporting,0,0.0,Pass
+193,The history of web development in finance,1,1.0,Pass
+194,Background on Machine learning models for reporting,1,1.0,Pass
+195,Steps to optimize SQL queries in business,0,0.0,Pass
+196,Exploring Python programming for data processing,1,1.0,Pass
+197,Setting up Python programming in business,0,0.0,Pass
+198,Overview of web development for AI development,1,1.0,Pass
+199,Exploring database management for automation,1,1.0,Pass
+200,Exploring database management for data processing,1,1.0,Pass
+201,Guide to using Python programming for data processing,0,0.0,Pass
+202,The history of web development for AI development,1,1.0,Pass
+203,The evolution of Excel functions for beginners,1,1.0,Pass
+204,Steps to optimize cloud services for automation,0,0.0,Pass
+205,Guide to using cloud services for automation,0,0.0,Pass
+206,What is Data analysis in finance,1,1.0,Pass
+207,Tutorial on Excel functions for automation,0,0.0,Pass
+208,How to manage cloud services for data processing,0,0.0,Pass
+209,Exploring Data analysis in business,1,1.0,Pass
+210,Tutorial on Python programming in finance,0,0.0,Pass
+211,Setting up Excel functions for automation,0,0.0,Pass
+212,Mastering Machine learning models for AI development,0,0.0,Pass
+213,The evolution of Python programming for AI development,1,1.0,Pass
+214,Setting up Machine learning models for reporting,0,0.0,Pass
+215,Steps to optimize Excel functions for reporting,0,0.0,Pass
+216,Tutorial on SQL queries for automation,0,0.0,Pass
+217,Introduction to Excel functions in business,1,1.0,Pass
+218,The history of database management for AI development,1,1.0,Pass
+219,Exploring web development for beginners,1,1.0,Pass
+220,Understanding Python programming in finance,0,0.0,Pass
+221,Best practices for SQL queries for automation,0,0.0,Pass
+222,Tutorial on Python programming for beginners,0,0.0,Pass
+223,What is Machine learning models for automation,1,1.0,Pass
+224,What is cloud services for data processing,1,1.0,Pass
+225,Introduction to SQL queries for reporting,1,1.0,Pass
+226,Introduction to Excel functions for data processing,1,1.0,Pass
+227,Guide to using SQL queries in business,0,0.0,Pass
+228,Guide to using Python programming in business,0,0.0,Pass
+229,Best practices for web development in finance,0,0.0,Pass
+230,Best practices for cloud services for reporting,0,0.0,Pass
+231,Understanding SQL queries for data processing,0,0.0,Pass
+232,The history of SQL queries for AI development,1,1.0,Pass
+233,What is Excel functions for reporting,1,1.0,Pass
+234,Exploring web development in finance,1,1.0,Pass
+235,Overview of web development for reporting,1,1.0,Pass
+236,Mastering database management in business,0,0.0,Pass
+237,How to manage Machine learning models for beginners,0,0.0,Pass
+238,Exploring Data analysis in business,1,1.0,Pass
+239,Mastering web development for data processing,0,0.0,Pass
+240,The evolution of web development in business,1,1.0,Pass
+241,Understanding Python programming for AI development,0,0.0,Pass
+242,The evolution of web development for automation,1,1.0,Pass
+243,Best practices for cloud services in business,0,0.0,Pass
+244,The evolution of Python programming for AI development,1,1.0,Pass
+245,How to manage database management for beginners,0,0.0,Pass
+246,Setting up cloud services in finance,0,0.0,Pass
+247,Concept of database management for automation,1,1.0,Pass
+248,Mastering cloud services for AI development,0,0.0,Pass
+249,Steps to optimize Data analysis for automation,0,0.0,Pass
+250,Guide to using cloud services for reporting,0,0.0,Pass
+251,Concept of Data analysis for reporting,1,1.0,Pass
+252,How to manage Excel functions in business,0,0.0,Pass
+253,Concept of cloud services for AI development,1,1.0,Pass
+254,The history of Data analysis for data processing,1,1.0,Pass
+255,Steps to optimize Python programming in finance,0,0.0,Pass
+256,Best practices for Data analysis for reporting,0,0.0,Pass
+257,Concept of web development in practice,1,1.0,Pass
+258,Understanding database management for data processing,0,0.0,Pass
+259,Tutorial on cloud services in practice,0,0.0,Pass
+260,Understanding Python programming in business,0,0.0,Pass
+261,Steps to optimize SQL queries in finance,0,0.0,Pass
+262,Steps to optimize Machine learning models in business,0,0.0,Pass
+263,How to manage Machine learning models in business,0,0.0,Pass
+264,Setting up database management for data processing,0,0.0,Pass
+265,Background on Python programming in business,1,1.0,Pass
+266,Steps to optimize web development for data processing,0,0.0,Pass
+267,Tutorial on web development for data processing,0,0.0,Pass
+268,Tutorial on cloud services in business,0,0.0,Pass
+269,Best practices for Data analysis in business,0,0.0,Pass
+270,Introduction to SQL queries for automation,1,1.0,Pass
+271,Overview of database management for beginners,1,1.0,Pass
+272,Mastering cloud services for reporting,0,0.0,Pass
+273,Steps to optimize web development for AI development,0,0.0,Pass
+274,Setting up cloud services in practice,0,0.0,Pass
+275,The evolution of Machine learning models in finance,1,1.0,Pass
+276,Setting up web development in finance,0,0.0,Pass
+277,Best practices for web development for data processing,0,0.0,Pass
+278,Background on web development in practice,1,1.0,Pass
+279,Mastering SQL queries in finance,0,0.0,Pass
+280,Understanding Machine learning models for automation,0,0.0,Pass
+281,Introduction to database management in business,1,1.0,Pass
+282,Introduction to Excel functions in business,1,1.0,Pass
+283,Background on cloud services for beginners,1,1.0,Pass
+284,The evolution of Data analysis in practice,1,1.0,Pass
+285,Introduction to SQL queries for reporting,1,1.0,Pass
+286,Overview of Python programming in business,1,1.0,Pass
+287,Understanding Data analysis for automation,0,0.0,Pass
+288,The history of SQL queries in business,1,1.0,Pass
+289,Introduction to Data analysis for AI development,1,1.0,Pass
+290,Introduction to web development for automation,1,1.0,Pass
+291,Mastering Python programming for AI development,0,0.0,Pass
+292,Overview of Python programming in practice,1,1.0,Pass
+293,Mastering cloud services in practice,0,0.0,Pass
+294,Background on Excel functions for AI development,1,1.0,Pass
+295,Overview of cloud services for beginners,1,1.0,Pass
+296,Introduction to Python programming for reporting,1,1.0,Pass
+297,The evolution of database management for data processing,1,1.0,Pass
+298,Tutorial on web development for data processing,0,0.0,Pass
+299,Exploring SQL queries for automation,1,1.0,Pass
+300,Introduction to SQL queries in finance,1,1.0,Pass
+301,Background on SQL queries for data processing,1,1.0,Pass
+302,Exploring Data analysis for reporting,1,1.0,Pass
+303,Concept of Excel functions for reporting,1,1.0,Pass
+304,Background on Excel functions for reporting,1,1.0,Pass
+305,What is Python programming for data processing,1,1.0,Pass
+306,Introduction to cloud services for AI development,1,1.0,Pass
+307,The evolution of Data analysis in practice,1,1.0,Pass
+308,The evolution of Machine learning models in finance,1,1.0,Pass
+309,Exploring Excel functions for AI development,1,1.0,Pass
+310,Guide to using database management for beginners,0,0.0,Pass
+311,The history of database management in finance,1,1.0,Pass
+312,Guide to using database management in practice,0,0.0,Pass
+313,The history of cloud services for automation,1,1.0,Pass
+314,Steps to optimize database management for reporting,0,0.0,Pass
+315,Best practices for Python programming in practice,0,0.0,Pass
+316,Understanding SQL queries for data processing,0,0.0,Pass
+317,Mastering database management in business,0,0.0,Pass
+318,The evolution of database management for beginners,1,1.0,Pass
+319,What is Data analysis for reporting,1,1.0,Pass
+320,How to manage Excel functions in practice,0,0.0,Pass
+321,Best practices for SQL queries in business,0,0.0,Pass
+322,Steps to optimize Data analysis in practice,0,0.0,Pass
+323,Steps to optimize database management for beginners,0,0.0,Pass
+324,Tutorial on Excel functions in business,0,0.0,Pass
+325,Guide to using database management for automation,0,0.0,Pass
+326,Exploring SQL queries for automation,1,1.0,Pass
+327,The history of Data analysis for AI development,1,1.0,Pass
+328,Introduction to Excel functions for beginners,1,1.0,Pass
+329,Concept of Python programming for beginners,1,1.0,Pass
+330,Overview of Machine learning models in finance,1,1.0,Pass
+331,Concept of Data analysis in finance,1,1.0,Pass
+332,Steps to optimize database management in business,0,0.0,Pass
+333,How to manage database management for reporting,0,0.0,Pass
+334,The evolution of Data analysis for reporting,1,1.0,Pass
+335,Setting up database management in business,0,0.0,Pass
+336,Overview of Python programming for automation,1,1.0,Pass
+337,The history of cloud services for reporting,1,1.0,Pass
+338,The history of database management for data processing,1,1.0,Pass
+339,Understanding Data analysis for reporting,0,0.0,Pass
+340,Exploring Data analysis for reporting,1,1.0,Pass
+341,What is database management in business,1,1.0,Pass
+342,Mastering cloud services in finance,0,0.0,Pass
+343,How to manage Machine learning models in finance,0,0.0,Pass
+344,Best practices for Python programming for reporting,0,0.0,Pass
+345,Setting up SQL queries for automation,0,0.0,Pass
+346,Exploring web development for AI development,1,1.0,Pass
+347,What is Excel functions for beginners,1,1.0,Pass
+348,Exploring Data analysis in practice,1,1.0,Pass
+349,Overview of cloud services in practice,1,1.0,Pass
+350,What is Excel functions in practice,1,1.0,Pass
+351,The history of database management for automation,1,1.0,Pass
+352,Best practices for web development for reporting,0,0.0,Pass
+353,How to manage cloud services for automation,0,0.0,Pass
+354,Understanding cloud services in business,0,0.0,Pass
+355,Setting up web development for beginners,0,0.0,Pass
+356,Exploring Excel functions in practice,1,1.0,Pass
+357,Best practices for database management in practice,0,0.0,Pass
+358,Background on SQL queries in practice,1,1.0,Pass
+359,The history of cloud services in business,1,1.0,Pass
+360,Exploring web development for automation,1,1.0,Pass
+361,Understanding Excel functions for reporting,0,0.0,Pass
+362,Background on database management for AI development,1,1.0,Pass
+363,What is Data analysis for AI development,1,1.0,Pass
+364,Exploring Python programming in finance,1,1.0,Pass
+365,Overview of Python programming in finance,1,1.0,Pass
+366,Best practices for SQL queries in business,0,0.0,Pass
+367,Background on Python programming in finance,1,1.0,Pass
+368,Exploring Python programming for beginners,1,1.0,Pass
+369,Understanding Machine learning models for data processing,0,0.0,Pass
+370,How to manage Machine learning models for beginners,0,0.0,Pass
+371,Overview of SQL queries for data processing,1,1.0,Pass
+372,Introduction to SQL queries for reporting,1,1.0,Pass
+373,The history of Python programming in business,1,1.0,Pass
+374,Understanding Python programming for beginners,0,0.0,Pass
+375,Background on SQL queries for beginners,1,1.0,Pass
+376,How to manage web development for automation,0,0.0,Pass
+377,Introduction to Machine learning models in practice,1,1.0,Pass
+378,Mastering SQL queries for reporting,0,0.0,Pass
+379,Exploring SQL queries in practice,1,1.0,Pass
+380,Concept of Data analysis for automation,1,1.0,Pass
+381,Background on Excel functions in finance,1,1.0,Pass
+382,Background on Machine learning models for automation,1,1.0,Pass
+383,The evolution of cloud services for automation,1,1.0,Pass
+384,Best practices for Python programming for data processing,0,0.0,Pass
+385,Guide to using cloud services in finance,0,0.0,Pass
+386,Understanding cloud services in business,0,0.0,Pass
+387,Concept of Excel functions for AI development,1,1.0,Pass
+388,Exploring cloud services for data processing,1,1.0,Pass
+389,The history of web development in business,1,1.0,Pass
+390,Best practices for SQL queries for automation,0,0.0,Pass
+391,Tutorial on SQL queries in practice,0,0.0,Pass
+392,Exploring cloud services in finance,1,1.0,Pass
+393,What is Data analysis for automation,1,1.0,Pass
+394,Background on Python programming for AI development,1,1.0,Pass
+395,The evolution of database management in business,1,1.0,Pass
+396,Exploring Python programming in practice,1,1.0,Pass
+397,Understanding database management for beginners,0,0.0,Pass
+398,Setting up Python programming for reporting,0,0.0,Pass
+399,The history of Data analysis in business,1,1.0,Pass
+400,Mastering Excel functions in practice,0,0.0,Pass
+401,Background on SQL queries for automation,1,1.0,Pass
+402,Steps to optimize web development for beginners,0,0.0,Pass
+403,Introduction to Data analysis for automation,1,1.0,Pass
+404,Best practices for Excel functions in business,0,0.0,Pass
+405,Guide to using Data analysis for AI development,0,0.0,Pass
+406,Understanding SQL queries for AI development,0,0.0,Pass
+407,Guide to using cloud services in practice,0,0.0,Pass
+408,Best practices for cloud services for data processing,0,0.0,Pass
+409,The history of Excel functions for reporting,1,1.0,Pass
+410,Background on Data analysis for automation,1,1.0,Pass
+411,Introduction to Machine learning models for AI development,1,1.0,Pass
+412,The evolution of SQL queries for AI development,1,1.0,Pass
+413,The history of Excel functions for reporting,1,1.0,Pass
+414,Best practices for Python programming in business,0,0.0,Pass
+415,Background on database management for beginners,1,1.0,Pass
+416,Exploring Data analysis in practice,1,1.0,Pass
+417,Introduction to Python programming in business,1,1.0,Pass
+418,Mastering web development for beginners,0,0.0,Pass
+419,Steps to optimize Machine learning models for reporting,0,0.0,Pass
+420,Guide to using web development for reporting,0,0.0,Pass
+421,Mastering cloud services in finance,0,0.0,Pass
+422,The evolution of Machine learning models in finance,1,1.0,Pass
+423,Concept of web development for beginners,1,1.0,Pass
+424,Steps to optimize Excel functions in practice,0,0.0,Pass
+425,The history of web development for automation,1,1.0,Pass
+426,Exploring SQL queries for data processing,1,1.0,Pass
+427,Tutorial on Machine learning models for reporting,0,0.0,Pass
+428,Guide to using SQL queries for automation,0,0.0,Pass
+429,Tutorial on database management in finance,0,0.0,Pass
+430,Understanding cloud services for beginners,0,0.0,Pass
+431,The history of database management in business,1,1.0,Pass
+432,Mastering Python programming for automation,0,0.0,Pass
+433,Guide to using Machine learning models for AI development,0,0.0,Pass
+434,Exploring cloud services for automation,1,1.0,Pass
+435,Steps to optimize web development for automation,0,0.0,Pass
+436,What is cloud services for AI development,1,1.0,Pass
+437,What is Python programming in practice,1,1.0,Pass
+438,Guide to using SQL queries in business,0,0.0,Pass
+439,Steps to optimize database management in business,0,0.0,Pass
+440,Setting up Python programming for automation,0,0.0,Pass
+441,Concept of Machine learning models for data processing,1,1.0,Pass
+442,Overview of database management in practice,1,1.0,Pass
+443,Overview of Python programming in business,1,1.0,Pass
+444,Mastering Excel functions for automation,0,0.0,Pass
+445,Setting up Python programming for reporting,0,0.0,Pass
+446,Setting up Python programming in practice,0,0.0,Pass
+447,What is cloud services for reporting,1,1.0,Pass
+448,Best practices for SQL queries for AI development,0,0.0,Pass
+449,Overview of SQL queries in practice,1,1.0,Pass
+450,The history of web development for reporting,1,1.0,Pass
+451,What is Data analysis for automation,1,1.0,Pass
+452,Setting up cloud services for data processing,0,0.0,Pass
+453,Tutorial on SQL queries for automation,0,0.0,Pass
+454,Best practices for Machine learning models in practice,0,0.0,Pass
+455,How to manage SQL queries in business,0,0.0,Pass
+456,Setting up Excel functions for automation,0,0.0,Pass
+457,Exploring SQL queries for reporting,1,1.0,Pass
+458,Overview of SQL queries for AI development,1,1.0,Pass
+459,Concept of web development in practice,1,1.0,Pass
+460,Overview of SQL queries in finance,1,1.0,Pass
+461,Setting up Python programming in finance,0,0.0,Pass
+462,Tutorial on Python programming for data processing,0,0.0,Pass
+463,Guide to using Python programming in business,0,0.0,Pass
+464,Mastering cloud services for reporting,0,0.0,Pass
+465,Guide to using web development in practice,0,0.0,Pass
+466,Guide to using SQL queries for reporting,0,0.0,Pass
+467,Guide to using database management for AI development,0,0.0,Pass
+468,Guide to using Python programming in business,0,0.0,Pass
+469,What is Machine learning models for reporting,1,1.0,Pass
+470,Steps to optimize Machine learning models for automation,0,0.0,Pass
+471,Understanding cloud services for automation,0,0.0,Pass
+472,Overview of Python programming for automation,1,1.0,Pass
+473,Tutorial on web development for AI development,0,0.0,Pass
+474,Overview of Python programming in business,1,1.0,Pass
+475,How to manage Data analysis in practice,0,0.0,Pass
+476,Steps to optimize Excel functions for reporting,0,0.0,Pass
+477,Background on Python programming for data processing,1,1.0,Pass
+478,Setting up SQL queries for reporting,0,0.0,Pass
+479,Best practices for Machine learning models in practice,0,0.0,Pass
+480,Concept of Data analysis for automation,1,1.0,Pass
+481,Mastering Machine learning models for AI development,0,0.0,Pass
+482,Tutorial on cloud services for data processing,0,0.0,Pass
+483,Background on Machine learning models for AI development,1,1.0,Pass
+484,How to manage SQL queries in business,0,0.0,Pass
+485,Understanding Machine learning models in finance,0,0.0,Pass
+486,What is SQL queries in practice,1,1.0,Pass
+487,How to manage database management in finance,0,0.0,Pass
+488,Tutorial on Excel functions for beginners,0,0.0,Pass
+489,Steps to optimize Excel functions in finance,0,0.0,Pass
+490,Tutorial on web development in finance,0,0.0,Pass
+491,Guide to using Python programming for automation,0,0.0,Pass
+492,Concept of SQL queries in practice,1,1.0,Pass
+493,Guide to using cloud services for beginners,0,0.0,Pass
+494,Tutorial on Machine learning models for reporting,0,0.0,Pass
+495,Background on cloud services for automation,1,1.0,Pass
+496,Mastering Python programming for reporting,0,0.0,Pass
+497,Tutorial on web development in finance,0,0.0,Pass
+498,How to manage database management in practice,0,0.0,Pass
+499,Background on Excel functions for data processing,1,1.0,Pass
+500,Setting up Machine learning models for data processing,0,0.0,Pass
+501,Mastering Python programming for beginners,0,0.0,Pass
+502,The history of Python programming for reporting,1,1.0,Pass
+503,Steps to optimize Excel functions in practice,0,0.0,Pass
+504,Concept of Excel functions in business,1,1.0,Pass
+505,How to manage Machine learning models for reporting,0,0.0,Pass
+506,Setting up Python programming for reporting,0,0.0,Pass
+507,Tutorial on database management for beginners,0,0.0,Pass
+508,The evolution of web development in practice,1,1.0,Pass
+509,Introduction to cloud services for beginners,1,1.0,Pass
+510,How to manage cloud services in business,0,0.0,Pass
+511,Exploring Machine learning models for automation,1,1.0,Pass
+512,The history of SQL queries for reporting,1,1.0,Pass
+513,The history of Machine learning models in finance,1,1.0,Pass
+514,Introduction to Data analysis in business,1,1.0,Pass
+515,How to manage web development in practice,0,0.0,Pass
+516,Tutorial on Excel functions for data processing,0,0.0,Pass
+517,Concept of web development for data processing,1,1.0,Pass
+518,Overview of Python programming in finance,1,1.0,Pass
+519,Concept of web development in practice,1,1.0,Pass
+520,Setting up Python programming for automation,0,0.0,Pass
+521,How to manage Python programming in finance,0,0.0,Pass
+522,Steps to optimize Machine learning models in finance,0,0.0,Pass
+523,Overview of web development for data processing,1,1.0,Pass
+524,Steps to optimize Machine learning models for data processing,0,0.0,Pass
+525,Guide to using SQL queries in business,0,0.0,Pass
+526,The evolution of database management in practice,1,1.0,Pass
+527,Steps to optimize Excel functions for beginners,0,0.0,Pass
+528,How to manage Excel functions for reporting,0,0.0,Pass
+529,Mastering SQL queries for reporting,0,0.0,Pass
+530,Setting up cloud services for beginners,0,0.0,Pass
+531,Exploring Data analysis for automation,1,1.0,Pass
+532,How to manage database management for AI development,0,0.0,Pass
+533,Best practices for database management for automation,0,0.0,Pass
+534,Steps to optimize Excel functions for AI development,0,0.0,Pass
+535,Exploring Data analysis in practice,1,1.0,Pass
+536,Guide to using Data analysis in business,0,0.0,Pass
+537,How to manage Excel functions in finance,0,0.0,Pass
+538,The history of Python programming in business,1,1.0,Pass
+539,How to manage web development for data processing,0,0.0,Pass
+540,How to manage Excel functions for data processing,0,0.0,Pass
+541,Best practices for Excel functions in practice,0,0.0,Pass
+542,Guide to using web development in finance,0,0.0,Pass
+543,Understanding web development in finance,0,0.0,Pass
+544,Setting up Python programming in finance,0,0.0,Pass
+545,Background on web development for automation,1,1.0,Pass
+546,Exploring SQL queries for automation,1,1.0,Pass
+547,The history of Data analysis for AI development,1,1.0,Pass
+548,How to manage cloud services in practice,0,0.0,Pass
+549,Overview of cloud services in finance,1,1.0,Pass
+550,Best practices for database management for beginners,0,0.0,Pass
+551,Steps to optimize Data analysis for automation,0,0.0,Pass
+552,Overview of cloud services for data processing,1,1.0,Pass
+553,Mastering Python programming in practice,0,0.0,Pass
+554,Steps to optimize database management in practice,0,0.0,Pass
+555,Guide to using web development in finance,0,0.0,Pass
+556,Steps to optimize database management in practice,0,0.0,Pass
+557,Background on Machine learning models for automation,1,1.0,Pass
+558,Steps to optimize cloud services in business,0,0.0,Pass
+559,Background on web development in practice,1,1.0,Pass
+560,Guide to using database management for beginners,0,0.0,Pass
+561,Tutorial on database management for data processing,0,0.0,Pass
+562,How to manage Python programming in finance,0,0.0,Pass
+563,Guide to using Data analysis for data processing,0,0.0,Pass
+564,Guide to using Data analysis in business,0,0.0,Pass
+565,The history of cloud services for data processing,1,1.0,Pass
+566,Exploring Machine learning models for beginners,1,1.0,Pass
+567,Steps to optimize SQL queries for reporting,0,0.0,Pass
+568,How to manage SQL queries in finance,0,0.0,Pass
+569,Mastering database management for AI development,0,0.0,Pass
+570,Guide to using Machine learning models for reporting,0,0.0,Pass
+571,What is SQL queries in business,1,1.0,Pass
+572,Best practices for database management for reporting,0,0.0,Pass
+573,How to manage SQL queries for beginners,0,0.0,Pass
+574,Steps to optimize Machine learning models in finance,0,0.0,Pass
+575,Exploring Machine learning models in practice,1,1.0,Pass
+576,Concept of SQL queries for beginners,1,1.0,Pass
+577,Steps to optimize Data analysis for data processing,0,0.0,Pass
+578,The evolution of cloud services for AI development,1,1.0,Pass
+579,Setting up Data analysis in business,0,0.0,Pass
+580,Mastering SQL queries for AI development,0,0.0,Pass
+581,Exploring cloud services in practice,1,1.0,Pass
+582,Overview of Machine learning models for beginners,1,1.0,Pass
+583,Setting up Excel functions for reporting,0,0.0,Pass
+584,Best practices for Python programming in business,0,0.0,Pass
+585,Best practices for web development in practice,0,0.0,Pass
+586,How to manage Python programming in practice,0,0.0,Pass
+587,Overview of Python programming for data processing,1,1.0,Pass
+588,What is cloud services for AI development,1,1.0,Pass
+589,Introduction to Excel functions for reporting,1,1.0,Pass
+590,Steps to optimize Excel functions for reporting,0,0.0,Pass
+591,Exploring database management in practice,1,1.0,Pass
+592,How to manage web development for data processing,0,0.0,Pass
+593,Best practices for Data analysis for reporting,0,0.0,Pass
+594,Steps to optimize database management for automation,0,0.0,Pass
+595,Understanding cloud services in business,0,0.0,Pass
+596,Introduction to SQL queries for automation,1,1.0,Pass
+597,Tutorial on Data analysis in business,0,0.0,Pass
+598,The evolution of Data analysis in practice,1,1.0,Pass
+599,Tutorial on SQL queries in finance,0,0.0,Pass
+600,Understanding Python programming for automation,0,0.0,Pass
+601,Overview of web development for reporting,1,1.0,Pass
+602,Exploring database management for automation,1,1.0,Pass
+603,Guide to using SQL queries for data processing,0,0.0,Pass
+604,Guide to using web development in practice,0,0.0,Pass
+605,The evolution of database management in practice,1,1.0,Pass
+606,Concept of cloud services in finance,1,1.0,Pass
+607,Concept of Excel functions in practice,1,1.0,Pass
+608,Best practices for Data analysis for data processing,0,0.0,Pass
+609,Setting up database management for automation,0,0.0,Pass
+610,Exploring database management for automation,1,1.0,Pass
+611,Setting up Python programming in finance,0,0.0,Pass
+612,What is web development in business,1,1.0,Pass
+613,Understanding Excel functions for automation,0,0.0,Pass
+614,Best practices for Excel functions for reporting,0,0.0,Pass
+615,Overview of Machine learning models in practice,1,1.0,Pass
+616,Introduction to web development in finance,1,1.0,Pass
+617,Steps to optimize Excel functions for automation,0,0.0,Pass
+618,Best practices for SQL queries in practice,0,0.0,Pass
+619,Setting up database management for reporting,0,0.0,Pass
+620,Tutorial on Machine learning models for AI development,0,0.0,Pass
+621,Overview of Machine learning models for automation,1,1.0,Pass
+622,Understanding web development in business,0,0.0,Pass
+623,Tutorial on database management in practice,0,0.0,Pass
+624,Understanding database management for data processing,0,0.0,Pass
+625,Background on web development in practice,1,1.0,Pass
+626,The evolution of Python programming for data processing,1,1.0,Pass
+627,Background on Data analysis for AI development,1,1.0,Pass
+628,How to manage Machine learning models in practice,0,0.0,Pass
+629,Guide to using Machine learning models in business,0,0.0,Pass
+630,What is SQL queries in finance,1,1.0,Pass
+631,How to manage database management in finance,0,0.0,Pass
+632,Background on Python programming for automation,1,1.0,Pass
+633,Background on Excel functions in finance,1,1.0,Pass
+634,Guide to using Python programming for data processing,0,0.0,Pass
+635,Tutorial on Python programming in practice,0,0.0,Pass
+636,The history of Python programming for reporting,1,1.0,Pass
+637,Understanding Machine learning models for AI development,0,0.0,Pass
+638,Concept of Python programming for beginners,1,1.0,Pass
+639,Guide to using web development in business,0,0.0,Pass
+640,Background on Data analysis for data processing,1,1.0,Pass
+641,The history of SQL queries for automation,1,1.0,Pass
+642,Exploring Data analysis for AI development,1,1.0,Pass
+643,Mastering web development in practice,0,0.0,Pass
+644,Background on Python programming for AI development,1,1.0,Pass
+645,Steps to optimize Python programming for automation,0,0.0,Pass
+646,The history of Data analysis in finance,1,1.0,Pass
+647,How to manage web development for automation,0,0.0,Pass
+648,Introduction to Machine learning models for data processing,1,1.0,Pass
+649,Tutorial on web development in practice,0,0.0,Pass
+650,Setting up cloud services for reporting,0,0.0,Pass
+651,Overview of Machine learning models for data processing,1,1.0,Pass
+652,Best practices for database management for data processing,0,0.0,Pass
+653,The history of Data analysis in finance,1,1.0,Pass
+654,The history of SQL queries for beginners,1,1.0,Pass
+655,The history of database management for reporting,1,1.0,Pass
+656,Concept of Data analysis for data processing,1,1.0,Pass
+657,The history of SQL queries for data processing,1,1.0,Pass
+658,Introduction to Excel functions for automation,1,1.0,Pass
+659,What is SQL queries for beginners,1,1.0,Pass
+660,Tutorial on database management in practice,0,0.0,Pass
+661,Exploring web development in practice,1,1.0,Pass
+662,Mastering Python programming in finance,0,0.0,Pass
+663,Concept of cloud services in finance,1,1.0,Pass
+664,Exploring cloud services for beginners,1,1.0,Pass
+665,Tutorial on SQL queries in business,0,0.0,Pass
+666,Setting up web development for AI development,0,0.0,Pass
+667,Steps to optimize Machine learning models for reporting,0,0.0,Pass
+668,Best practices for Machine learning models for beginners,0,0.0,Pass
+669,Introduction to Excel functions in practice,1,1.0,Pass
+670,The evolution of database management for automation,1,1.0,Pass
+671,Tutorial on Machine learning models in finance,0,0.0,Pass
+672,Exploring database management for beginners,1,1.0,Pass
+673,Introduction to Python programming in practice,1,1.0,Pass
+674,Steps to optimize web development for AI development,0,0.0,Pass
+675,Setting up Machine learning models for AI development,0,0.0,Pass
+676,Introduction to Machine learning models in business,1,1.0,Pass
+677,Steps to optimize database management for reporting,0,0.0,Pass
+678,Understanding cloud services in practice,0,0.0,Pass
+679,Steps to optimize database management in business,0,0.0,Pass
+680,Best practices for Data analysis for automation,0,0.0,Pass
+681,The history of web development in finance,1,1.0,Pass
+682,Concept of Data analysis in business,1,1.0,Pass
+683,The history of Excel functions for reporting,1,1.0,Pass
+684,Guide to using cloud services for automation,0,0.0,Pass
+685,Concept of cloud services for reporting,1,1.0,Pass
+686,Steps to optimize Excel functions for data processing,0,0.0,Pass
+687,Background on cloud services for reporting,1,1.0,Pass
+688,Understanding Machine learning models for beginners,0,0.0,Pass
+689,Exploring Python programming in finance,1,1.0,Pass
+690,Background on web development for data processing,1,1.0,Pass
+691,Introduction to web development in business,1,1.0,Pass
+692,Mastering web development for reporting,0,0.0,Pass
+693,Guide to using web development for reporting,0,0.0,Pass
+694,How to manage Data analysis for data processing,0,0.0,Pass
+695,Tutorial on Data analysis for reporting,0,0.0,Pass
+696,The history of cloud services for reporting,1,1.0,Pass
+697,Concept of web development in business,1,1.0,Pass
+698,Understanding web development for automation,0,0.0,Pass
+699,What is web development for AI development,1,1.0,Pass
+700,Setting up cloud services in practice,0,0.0,Pass
+701,Background on web development for data processing,1,1.0,Pass
+702,Exploring Excel functions in finance,1,1.0,Pass
+703,Introduction to Excel functions in business,1,1.0,Pass
+704,Concept of web development for automation,1,1.0,Pass
+705,Introduction to SQL queries for automation,1,1.0,Pass
+706,Exploring SQL queries in business,1,1.0,Pass
+707,Guide to using SQL queries for reporting,0,0.0,Pass
+708,Best practices for cloud services for reporting,0,0.0,Pass
+709,What is Machine learning models for automation,1,1.0,Pass
+710,Tutorial on Python programming in finance,0,0.0,Pass
+711,Guide to using Data analysis in business,0,0.0,Pass
+712,Understanding Excel functions in practice,0,0.0,Pass
+713,Concept of web development in business,1,1.0,Pass
+714,Concept of Excel functions in practice,1,1.0,Pass
+715,The history of cloud services for automation,1,1.0,Pass
+716,Background on Python programming in finance,1,1.0,Pass
+717,Guide to using Data analysis in finance,0,0.0,Pass
+718,Background on Data analysis in practice,1,1.0,Pass
+719,Setting up Machine learning models for automation,0,0.0,Pass
+720,Introduction to web development in business,1,1.0,Pass
+721,Concept of Excel functions in business,1,1.0,Pass
+722,How to manage cloud services in business,0,0.0,Pass
+723,The evolution of database management for reporting,1,1.0,Pass
+724,Guide to using web development in practice,0,0.0,Pass
+725,Exploring Python programming in practice,1,1.0,Pass
+726,Tutorial on SQL queries in practice,0,0.0,Pass
+727,The evolution of web development for reporting,1,1.0,Pass
+728,Tutorial on database management for beginners,0,0.0,Pass
+729,Tutorial on SQL queries in business,0,0.0,Pass
+730,Understanding Excel functions in practice,0,0.0,Pass
+731,Steps to optimize Excel functions for reporting,0,0.0,Pass
+732,Introduction to Data analysis for data processing,1,1.0,Pass
+733,Steps to optimize Python programming for data processing,0,0.0,Pass
+734,Steps to optimize Python programming in business,0,0.0,Pass
+735,How to manage Data analysis for AI development,0,0.0,Pass
+736,Mastering Machine learning models for beginners,0,0.0,Pass
+737,Setting up SQL queries for AI development,0,0.0,Pass
+738,What is SQL queries in finance,1,1.0,Pass
+739,Guide to using database management in business,0,0.0,Pass
+740,Setting up Excel functions for data processing,0,0.0,Pass
+741,The history of Python programming in practice,1,1.0,Pass
+742,Understanding SQL queries for data processing,0,0.0,Pass
+743,Tutorial on database management for beginners,0,0.0,Pass
+744,Tutorial on cloud services in practice,0,0.0,Pass
+745,Mastering Machine learning models for automation,0,0.0,Pass
+746,Exploring Machine learning models in business,1,1.0,Pass
+747,Overview of database management in business,1,1.0,Pass
+748,Exploring cloud services for AI development,1,1.0,Pass
+749,What is database management in finance,1,1.0,Pass
+750,Introduction to Machine learning models in business,1,1.0,Pass
+751,The evolution of Python programming for AI development,1,1.0,Pass
+752,Background on database management in business,1,1.0,Pass
+753,Steps to optimize Machine learning models for reporting,0,0.0,Pass
+754,Steps to optimize Excel functions for beginners,0,0.0,Pass
+755,The evolution of SQL queries for reporting,1,1.0,Pass
+756,Setting up SQL queries for data processing,0,0.0,Pass
+757,Understanding database management for AI development,0,0.0,Pass
+758,The history of web development in finance,1,1.0,Pass
+759,Guide to using cloud services in practice,0,0.0,Pass
+760,The evolution of Excel functions in practice,1,1.0,Pass
+761,Tutorial on cloud services in finance,0,0.0,Pass
+762,Background on cloud services in finance,1,1.0,Pass
+763,Introduction to cloud services for beginners,1,1.0,Pass
+764,Exploring web development for data processing,1,1.0,Pass
+765,Setting up Data analysis for data processing,0,0.0,Pass
+766,What is Python programming for automation,1,1.0,Pass
+767,Overview of Excel functions in finance,1,1.0,Pass
+768,Concept of Python programming in business,1,1.0,Pass
+769,Best practices for SQL queries in practice,0,0.0,Pass
+770,The evolution of cloud services for automation,1,1.0,Pass
+771,Guide to using Data analysis for beginners,0,0.0,Pass
+772,Mastering web development for data processing,0,0.0,Pass
+773,Best practices for Data analysis in business,0,0.0,Pass
+774,Understanding Excel functions in business,0,0.0,Pass
+775,Introduction to database management for data processing,1,1.0,Pass
+776,Best practices for Data analysis in business,0,0.0,Pass
+777,How to manage web development in finance,0,0.0,Pass
+778,Guide to using Excel functions in practice,0,0.0,Pass
+779,How to manage SQL queries for data processing,0,0.0,Pass
+780,How to manage Python programming in finance,0,0.0,Pass
+781,Understanding SQL queries for automation,0,0.0,Pass
+782,How to manage Python programming in practice,0,0.0,Pass
+783,Concept of Excel functions for data processing,1,1.0,Pass
+784,Introduction to cloud services in practice,1,1.0,Pass
+785,Introduction to SQL queries for AI development,1,1.0,Pass
+786,Exploring Excel functions for automation,1,1.0,Pass
+787,Overview of SQL queries for beginners,1,1.0,Pass
+788,Setting up Machine learning models for data processing,0,0.0,Pass
+789,Understanding Machine learning models for data processing,0,0.0,Pass
+790,Exploring web development in business,1,1.0,Pass
+791,Mastering database management in finance,0,0.0,Pass
+792,Understanding Machine learning models for reporting,0,0.0,Pass
+793,Overview of SQL queries for beginners,1,1.0,Pass
+794,How to manage Python programming for automation,0,0.0,Pass
+795,The history of database management for reporting,1,1.0,Pass
+796,Mastering SQL queries for automation,0,0.0,Pass
+797,Best practices for Python programming for automation,0,0.0,Pass
+798,Steps to optimize Excel functions for data processing,0,0.0,Pass
+799,The history of web development for data processing,1,1.0,Pass
+800,Mastering database management for reporting,0,0.0,Pass
+801,Tutorial on Data analysis in business,0,0.0,Pass
+802,The evolution of database management in business,1,1.0,Pass
+803,Understanding Python programming in finance,0,0.0,Pass
+804,Exploring Machine learning models for beginners,1,1.0,Pass
+805,Guide to using Machine learning models for beginners,0,0.0,Pass
+806,Overview of cloud services for AI development,1,1.0,Pass
+807,Tutorial on SQL queries in business,0,0.0,Pass
+808,How to manage cloud services for data processing,0,0.0,Pass
+809,Setting up cloud services for AI development,0,0.0,Pass
+810,The evolution of web development for reporting,1,1.0,Pass
+811,Understanding web development for beginners,0,0.0,Pass
+812,Introduction to Machine learning models in finance,1,1.0,Pass
+813,Best practices for Machine learning models for beginners,0,0.0,Pass
+814,Background on Data analysis for beginners,1,1.0,Pass
+815,Exploring database management in finance,1,1.0,Pass
+816,Exploring database management in finance,1,1.0,Pass
+817,What is Data analysis in finance,1,1.0,Pass
+818,Best practices for SQL queries in business,0,0.0,Pass
+819,Tutorial on cloud services in business,0,0.0,Pass
+820,Background on cloud services for AI development,1,1.0,Pass
+821,How to manage SQL queries for data processing,0,0.0,Pass
+822,Exploring Machine learning models in practice,1,1.0,Pass
+823,Background on database management in practice,1,1.0,Pass
+824,Understanding SQL queries for data processing,0,0.0,Pass
+825,Concept of web development in practice,1,1.0,Pass
+826,The evolution of Data analysis for reporting,1,1.0,Pass
+827,Tutorial on Machine learning models for AI development,0,0.0,Pass
+828,The history of cloud services for AI development,1,1.0,Pass
+829,Guide to using Machine learning models for reporting,0,0.0,Pass
+830,Mastering Excel functions for AI development,0,0.0,Pass
+831,Steps to optimize SQL queries for automation,0,0.0,Pass
+832,Mastering cloud services in business,0,0.0,Pass
+833,Concept of Python programming for automation,1,1.0,Pass
+834,The evolution of database management for AI development,1,1.0,Pass
+835,Background on web development for automation,1,1.0,Pass
+836,Background on Excel functions for automation,1,1.0,Pass
+837,Steps to optimize database management in finance,0,0.0,Pass
+838,The history of Python programming in practice,1,1.0,Pass
+839,Background on cloud services for reporting,1,1.0,Pass
+840,Introduction to Excel functions for reporting,1,1.0,Pass
+841,Steps to optimize Python programming in business,0,0.0,Pass
+842,How to manage Python programming for automation,0,0.0,Pass
+843,Introduction to web development in finance,1,1.0,Pass
+844,Mastering web development for AI development,0,0.0,Pass
+845,Exploring Machine learning models in practice,1,1.0,Pass
+846,What is Python programming for automation,1,1.0,Pass
+847,Mastering cloud services for automation,0,0.0,Pass
+848,Understanding SQL queries in practice,0,0.0,Pass
+849,Tutorial on Data analysis in practice,0,0.0,Pass
+850,Guide to using SQL queries for AI development,0,0.0,Pass
+851,The history of cloud services for data processing,1,1.0,Pass
+852,The evolution of Excel functions in finance,1,1.0,Pass
+853,Background on SQL queries in finance,1,1.0,Pass
+854,Guide to using cloud services in business,0,0.0,Pass
+855,Steps to optimize SQL queries in practice,0,0.0,Pass
+856,Tutorial on Excel functions in finance,0,0.0,Pass
+857,Guide to using cloud services for AI development,0,0.0,Pass
+858,Background on Excel functions for beginners,1,1.0,Pass
+859,Exploring database management in business,1,1.0,Pass
+860,Understanding Machine learning models for data processing,0,0.0,Pass
+861,The evolution of Data analysis in business,1,1.0,Pass
+862,The history of SQL queries for reporting,1,1.0,Pass
+863,Exploring Data analysis for AI development,1,1.0,Pass
+864,What is Machine learning models in finance,1,1.0,Pass
+865,Mastering Data analysis for automation,0,0.0,Pass
+866,Tutorial on Python programming in practice,0,0.0,Pass
+867,Setting up database management for AI development,0,0.0,Pass
+868,The history of SQL queries for reporting,1,1.0,Pass
+869,The history of Machine learning models for beginners,1,1.0,Pass
+870,Overview of SQL queries for automation,1,1.0,Pass
+871,Concept of SQL queries for data processing,1,1.0,Pass
+872,Concept of Python programming for data processing,1,1.0,Pass
+873,How to manage Machine learning models in business,0,0.0,Pass
+874,Best practices for SQL queries for AI development,0,0.0,Pass
+875,How to manage cloud services for beginners,0,0.0,Pass
+876,What is Data analysis in practice,1,1.0,Pass
+877,Tutorial on web development for data processing,0,0.0,Pass
+878,Steps to optimize web development for reporting,0,0.0,Pass
+879,Steps to optimize database management for beginners,0,0.0,Pass
+880,Background on Excel functions for AI development,1,1.0,Pass
+881,Concept of Data analysis for automation,1,1.0,Pass
+882,How to manage SQL queries for data processing,0,0.0,Pass
+883,Best practices for Data analysis for reporting,0,0.0,Pass
+884,Guide to using SQL queries for reporting,0,0.0,Pass
+885,Understanding Data analysis in practice,0,0.0,Pass
+886,What is SQL queries for beginners,1,1.0,Pass
+887,Introduction to Python programming for beginners,1,1.0,Pass
+888,Introduction to Data analysis for automation,1,1.0,Pass
+889,The history of cloud services in finance,1,1.0,Pass
+890,Concept of cloud services in finance,1,1.0,Pass
+891,What is cloud services for AI development,1,1.0,Pass
+892,Concept of Excel functions for reporting,1,1.0,Pass
+893,Introduction to SQL queries for automation,1,1.0,Pass
+894,Best practices for Machine learning models in finance,0,0.0,Pass
+895,Concept of Python programming for automation,1,1.0,Pass
+896,Guide to using web development for automation,0,0.0,Pass
+897,Introduction to Python programming for reporting,1,1.0,Pass
+898,The history of web development for beginners,1,1.0,Pass
+899,Concept of Machine learning models for data processing,1,1.0,Pass
+900,Understanding database management in finance,0,0.0,Pass
+901,Overview of Data analysis for automation,1,1.0,Pass
+902,Mastering web development for reporting,0,0.0,Pass
+903,Tutorial on web development for beginners,0,0.0,Pass
+904,Tutorial on Python programming for beginners,0,0.0,Pass
+905,Best practices for Machine learning models in practice,0,0.0,Pass
+906,Setting up Data analysis for beginners,0,0.0,Pass
+907,Understanding Python programming in finance,0,0.0,Pass
+908,Best practices for Python programming in finance,0,0.0,Pass
+909,How to manage Excel functions for reporting,0,0.0,Pass
+910,Best practices for Excel functions in practice,0,0.0,Pass
+911,Concept of Data analysis for AI development,1,1.0,Pass
+912,How to manage cloud services for reporting,0,0.0,Pass
+913,Introduction to web development in practice,1,1.0,Pass
+914,Exploring Python programming in business,1,1.0,Pass
+915,Overview of cloud services for AI development,1,1.0,Pass
+916,What is Python programming for data processing,1,1.0,Pass
+917,Overview of cloud services in business,1,1.0,Pass
+918,Tutorial on web development for AI development,0,0.0,Pass
+919,Overview of Data analysis for AI development,1,1.0,Pass
+920,Mastering Python programming for data processing,0,0.0,Pass
+921,Best practices for SQL queries in practice,0,0.0,Pass
+922,What is cloud services in business,1,1.0,Pass
+923,Best practices for database management for beginners,0,0.0,Pass
+924,Understanding Excel functions in practice,0,0.0,Pass
+925,Exploring cloud services for AI development,1,1.0,Pass
+926,Introduction to Excel functions in finance,1,1.0,Pass
+927,What is Machine learning models for AI development,1,1.0,Pass
+928,Tutorial on cloud services for AI development,0,0.0,Pass
+929,Concept of web development in business,1,1.0,Pass
+930,Understanding Excel functions for reporting,0,0.0,Pass
+931,Tutorial on Excel functions for beginners,0,0.0,Pass
+932,Understanding database management for AI development,0,0.0,Pass
+933,Introduction to web development for reporting,1,1.0,Pass
+934,Mastering web development for automation,0,0.0,Pass
+935,The evolution of SQL queries for automation,1,1.0,Pass
+936,Introduction to Python programming for AI development,1,1.0,Pass
+937,Setting up web development for automation,0,0.0,Pass
+938,The history of database management for reporting,1,1.0,Pass
+939,Steps to optimize web development for data processing,0,0.0,Pass
+940,Steps to optimize SQL queries for AI development,0,0.0,Pass
+941,The evolution of Excel functions for reporting,1,1.0,Pass
+942,Best practices for web development for automation,0,0.0,Pass
+943,Exploring Python programming for AI development,1,1.0,Pass
+944,Concept of Excel functions for AI development,1,1.0,Pass
+945,Concept of SQL queries for reporting,1,1.0,Pass
+946,Exploring SQL queries in business,1,1.0,Pass
+947,Best practices for cloud services for automation,0,0.0,Pass
+948,Exploring database management in business,1,1.0,Pass
+949,Introduction to SQL queries for automation,1,1.0,Pass
+950,Steps to optimize Excel functions in business,0,0.0,Pass
+951,Exploring Data analysis for reporting,1,1.0,Pass
+952,Introduction to Python programming for data processing,1,1.0,Pass
+953,Background on Excel functions for data processing,1,1.0,Pass
+954,Overview of Excel functions in finance,1,1.0,Pass
+955,How to manage Excel functions for AI development,0,0.0,Pass
+956,Background on Data analysis for automation,1,1.0,Pass
+957,Overview of Data analysis for automation,1,1.0,Pass
+958,Exploring cloud services in practice,1,1.0,Pass
+959,Concept of Excel functions in business,1,1.0,Pass
+960,Setting up Python programming in finance,0,0.0,Pass
+961,Guide to using Python programming for AI development,0,0.0,Pass
+962,Introduction to database management for beginners,1,1.0,Pass
+963,Exploring database management in practice,1,1.0,Pass
+964,Exploring Excel functions in business,1,1.0,Pass
+965,The evolution of SQL queries for reporting,1,1.0,Pass
+966,Background on database management in finance,1,1.0,Pass
+967,What is web development in business,1,1.0,Pass
+968,The history of Excel functions for automation,1,1.0,Pass
+969,Understanding cloud services for data processing,0,0.0,Pass
+970,Tutorial on Python programming for beginners,0,0.0,Pass
+971,What is Data analysis for data processing,1,1.0,Pass
+972,The history of database management for AI development,1,1.0,Pass
+973,Overview of Machine learning models in business,1,1.0,Pass
+974,Concept of Machine learning models for data processing,1,1.0,Pass
+975,Tutorial on Excel functions for beginners,0,0.0,Pass
+976,Concept of Excel functions in business,1,1.0,Pass
+977,Guide to using database management in finance,0,0.0,Pass
+978,How to manage Python programming for beginners,0,0.0,Pass
+979,Setting up web development for beginners,0,0.0,Pass
+980,Steps to optimize web development in practice,0,0.0,Pass
+981,What is database management for reporting,1,1.0,Pass
+982,Introduction to Excel functions in finance,1,1.0,Pass
+983,The evolution of SQL queries for beginners,1,1.0,Pass
+984,Overview of Data analysis for beginners,1,1.0,Pass
+985,Overview of cloud services in finance,1,1.0,Pass
+986,Guide to using Python programming for beginners,0,0.0,Pass
+987,Guide to using database management for reporting,0,0.0,Pass
+988,How to manage database management for data processing,0,0.0,Pass
+989,How to manage Python programming for AI development,0,0.0,Pass
+990,Exploring database management in business,1,1.0,Pass
+991,What is Excel functions in practice,1,1.0,Pass
+992,Steps to optimize Python programming for automation,0,0.0,Pass
+993,Best practices for Python programming in practice,0,0.0,Pass
+994,Exploring Excel functions for beginners,1,1.0,Pass
+995,Best practices for SQL queries for data processing,0,0.0,Pass
+996,Mastering Machine learning models in business,0,0.0,Pass
+997,The history of Python programming for reporting,1,1.0,Pass
+998,The history of Excel functions in practice,1,1.0,Pass
+999,The history of cloud services in finance,1,1.0,Pass
