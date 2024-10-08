@@ -1,26 +1,11 @@
 import warnings
 warnings.filterwarnings("ignore")
-
 import os
-import matplotlib.pyplot as plt
-import copy
-
-import random
 import numpy as np
-import pandas as pd
 import tensorflow as tf
-from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
-
-
-from tqdm import tqdm
 from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
-from datasets import load_dataset
-from transformers import AutoTokenizer
-from transformers import DataCollatorWithPadding
-
-from datasets import Dataset, DatasetDict
-from transformers import DataCollatorWithPadding
 from text_preprocessing import *
+from  datetime import datetime
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 pd.set_option('max_colwidth', 400)
@@ -29,6 +14,7 @@ num_labels = 2
 model_checkpoint = "distilroberta-base"
 batch_size = 32
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint,use_fast=True)
+current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 dict_in_out = {"1":"Allowed", "0":"Restricted"}
 
