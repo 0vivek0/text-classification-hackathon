@@ -2,8 +2,10 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import os
+import re
 import matplotlib.pyplot as plt
 import copy
+import logging
 
 import random
 import numpy as np
@@ -12,16 +14,9 @@ import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
 
 
-# from tqdm import tqdm
-# from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
-# from datasets import load_dataset
 from transformers import AutoTokenizer
 from transformers import DataCollatorWithPadding
 
-# from datasets import Dataset, DatasetDict
-# from transformers import DataCollatorWithPadding
-
-import re
 batch_size = 32
 model_checkpoint = "distilroberta-base"
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint,use_fast=True)
@@ -59,12 +54,8 @@ def label_encoder_fit_and_transform(data, column):
     #for column in columns_list:
     processed_data[column] = data.pop(column)
     print(processed_data.columns)
-    #log_progress('label encoding targeted columns', level=1)
-    #processed_data = label_encoder_fit_and_transform_columns(processed_data, column)
     encoder = LabelEncoder()
     processed_data = encoder.fit_transform(processed_data)
-    # Copy back encoded columns
-    #for column in columns:
     data[column] = processed_data
 
     return data
@@ -72,21 +63,19 @@ def label_encoder_fit_and_transform(data, column):
 def generate_train_test_val_data(input_file_path):
     dataset = pd.read_excel(input_file_path)
 
-    print(dataset.shape)
-    print("The column headers :")
-    print(list(dataset.columns.values))
+    logging.info(dataset.shape)
+    logging.info("The column headers :")
+    logging.info(list(dataset.columns.values))
 
     dataset['Text'] = dataset['Text'].apply(preprocess_text)
 
     #from sklearn.preprocessing import OneHotEncoder, LabelEncoder
-    print(dataset.shape)
-    print("The column headers :")
-    print(list(dataset.columns.values))
-    #encoder = LabelEncoder()
-    #dataset = encoder.fit_transform(dataset['Sub_Classification'])
+    logging.info(dataset.shape)
+    logging.info("The column headers :")
+    logging.info(list(dataset.columns.values))
     dataset = label_encoder_fit_and_transform(dataset, 'Scope')
 
-    print(len(dataset.Scope.unique()))
+    logging.info(len(dataset.Scope.unique()))
 
     # Let's say we want to split the data in 80:10:10 for train:valid:test dataset
     train_size = 0.8
@@ -102,9 +91,9 @@ def generate_train_test_val_data(input_file_path):
     df_valid = dataset[train_index:train_index+valid_index]
     df_test = dataset[train_index+valid_index:]
 
-    print(df_train.shape)
-    print(df_valid.shape)
-    print(df_test.shape)
+    logging.info(df_train.shape)
+    logging.info(df_valid.shape)
+    logging.info(df_test.shape)
 
     df_train.to_csv("Enhanced_Synthetic_Data_Train.csv", index=False)
     df_valid.to_csv("Enhanced_Synthetic_Data_Val.csv", index=False)
