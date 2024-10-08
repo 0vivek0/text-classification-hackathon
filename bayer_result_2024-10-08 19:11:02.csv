@@ -1,0 +1,101 @@
+,Text,Scope,Pred_Scope,Result
+0,Spell check for Word document in Google Sheets,1,0.0,Fail
+1,Share an Excel sheet in Word,0,0.0,Pass
+2,Format CSV file using Python,1,0.0,Fail
+3,Edit database in Google Docs,1,0.0,Fail
+4,How to delete these words in VS Code,1,0.0,Fail
+5,How to save an Excel sheet in Excel,0,0.0,Pass
+6,Edit database on GitHub,0,0.0,Pass
+7,Analyze presentation in Google Sheets,1,0.0,Fail
+8,How to save New Workbook on GitHub,0,0.0,Pass
+9,Share Python script using Python,0,0.0,Pass
+10,Analyze presentation on OneDrive,1,0.0,Fail
+11,Spell check for an Excel sheet on OneDrive,1,0.0,Fail
+12,Share PowerPoint slide on GitHub,0,0.0,Pass
+13,How to save Word document in Google Docs,1,0.0,Fail
+14,Share PDF file on GitHub,0,0.0,Pass
+15,How to open New Workbook in SQL,1,0.0,Fail
+16,Spell check for New Workbook in Word,0,0.0,Pass
+17,Share PDF file in Google Docs,1,0.0,Fail
+18,How to delete presentation in Google Sheets,0,0.0,Pass
+19,Format PowerPoint slide in Google Docs,1,0.0,Fail
+20,Analyze Python script in Google Docs,1,0.0,Fail
+21,Edit PowerPoint slide in PowerPoint,1,0.0,Fail
+22,How to save presentation on GitHub,0,0.0,Pass
+23,Organize an Excel sheet in PowerPoint,1,0.0,Fail
+24,Analyze New Workbook in Google Docs,0,0.0,Pass
+25,Analyze Word document in SQL,1,0.0,Fail
+26,How to open database on OneDrive,1,0.0,Fail
+27,How to save New Workbook in Excel,1,0.0,Fail
+28,Organize PDF file in SQL,0,0.0,Pass
+29,Format Word document in Word,1,0.0,Fail
+30,Edit these words using Python,0,0.0,Pass
+31,Organize an Excel sheet in VS Code,1,0.0,Fail
+32,Organize Python script in Google Docs,0,0.0,Pass
+33,Organize presentation in Word,1,0.0,Fail
+34,How to save these words in Word,0,0.0,Pass
+35,Spell check for these words in Excel,1,0.0,Fail
+36,Format database on GitHub,0,0.0,Pass
+37,Share these words in Excel,0,0.0,Pass
+38,How to create Word document in Google Sheets,1,0.0,Fail
+39,Share CSV file on OneDrive,0,0.0,Pass
+40,Analyze PDF file in Word,0,0.0,Pass
+41,How to create an Excel sheet on GitHub,0,0.0,Pass
+42,How to delete an Excel sheet in SQL,1,0.0,Fail
+43,Analyze presentation on GitHub,0,0.0,Pass
+44,Edit CSV file on GitHub,0,0.0,Pass
+45,How to save Python script in Word,1,0.0,Fail
+46,Spell check for PowerPoint slide in Google Docs,1,0.0,Fail
+47,Analyze presentation using Python,0,0.0,Pass
+48,How to save these words in SQL,0,0.0,Pass
+49,Organize Word document in Excel,0,0.0,Pass
+50,Format these words on OneDrive,0,0.0,Pass
+51,Spell check for CSV file in VS Code,0,0.0,Pass
+52,How to create Python script in Word,0,0.0,Pass
+53,How to delete these words in Google Docs,0,0.0,Pass
+54,Edit New Workbook in Word,1,0.0,Fail
+55,How to open database in Google Sheets,1,0.0,Fail
+56,Share an Excel sheet in Excel,1,0.0,Fail
+57,How to open Word document on GitHub,0,0.0,Pass
+58,How to open Python script using Python,1,0.0,Fail
+59,Share an Excel sheet in Google Sheets,1,0.0,Fail
+60,How to create Python script in Google Docs,1,0.0,Fail
+61,Spell check for database in PowerPoint,1,0.0,Fail
+62,How to save PDF file in Google Docs,0,0.0,Pass
+63,How to delete Python script in Google Docs,0,0.0,Pass
+64,Analyze New Workbook on GitHub,1,0.0,Fail
+65,How to create CSV file in Word,0,0.0,Pass
+66,How to create database on GitHub,1,0.0,Fail
+67,Organize Word document in VS Code,0,0.0,Pass
+68,How to create PDF file in PowerPoint,0,0.0,Pass
+69,How to create database in Word,1,0.0,Fail
+70,Format CSV file in Excel,0,0.0,Pass
+71,How to open PowerPoint slide in Word,0,0.0,Pass
+72,How to delete PDF file in Google Sheets,1,0.0,Fail
+73,How to open Python script in Word,0,0.0,Pass
+74,How to create CSV file in VS Code,0,0.0,Pass
+75,How to open Python script in VS Code,0,0.0,Pass
+76,Format CSV file in Google Sheets,1,0.0,Fail
+77,Format presentation in PowerPoint,1,0.0,Fail
+78,How to save an Excel sheet in Word,0,0.0,Pass
+79,How to delete PowerPoint slide in Excel,0,0.0,Pass
+80,Organize Word document in PowerPoint,1,0.0,Fail
+81,How to delete Word document using Python,1,0.0,Fail
+82,Edit database in Word,0,0.0,Pass
+83,Organize presentation on OneDrive,0,0.0,Pass
+84,How to open New Workbook in Word,0,0.0,Pass
+85,Analyze New Workbook on OneDrive,1,0.0,Fail
+86,Share New Workbook in VS Code,0,0.0,Pass
+87,How to open these words in Google Docs,0,0.0,Pass
+88,How to open presentation in Google Docs,1,0.0,Fail
+89,Edit these words in VS Code,1,0.0,Fail
+90,Spell check for presentation in SQL,1,0.0,Fail
+91,How to delete New Workbook on GitHub,0,0.0,Pass
+92,Spell check for database in VS Code,0,0.0,Pass
+93,Analyze CSV file on GitHub,1,0.0,Fail
+94,Format presentation in VS Code,1,0.0,Fail
+95,Organize an Excel sheet in Excel,0,0.0,Pass
+96,Edit database in Excel,0,0.0,Pass
+97,How to save an Excel sheet on OneDrive,0,0.0,Pass
+98,How to open Word document using Python,0,0.0,Pass
+99,Spell check for PowerPoint slide in VS Code,1,0.0,Fail
