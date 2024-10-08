@@ -14,6 +14,9 @@ Technical Implementation:
 • Training Dataset – will be provided as input along with pre-processor python.
 • Requirement is to create a dataSet, train the model, save custom model and use said model to classify queries.
 
+![image](https://github.com/user-attachments/assets/0e6552b9-e08c-4e11-9d7a-bd0f0cd8d9eb)
+
+
 Tools and Technologies:-
 FastAPI
 BERT, Huggingface libraries
@@ -33,3 +36,4 @@ Components:
         ◦ query (string)
         ◦ model name (string)
         ◦ Returns if query is allowed or restricted
+        
