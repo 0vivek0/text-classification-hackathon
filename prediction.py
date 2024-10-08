@@ -4,6 +4,7 @@ warnings.filterwarnings("ignore")
 import os
 import matplotlib.pyplot as plt
 import copy
+
 import random
 import numpy as np
 import pandas as pd
@@ -41,9 +42,9 @@ def get_test_data_result(dataset, saved_model_name):
             test_data['Result'][i] = "Pass"
         else:
             test_data['Result'][i] = "Fail"
-    
+
     test_data.to_csv(f'bayer_result_{current_time}.csv')
-    acc = (len(test_data[test_data['Result']=='Pass'])/len(test_data))*100
+    acc = len(test_data[test_data['Result']=='Pass'])/len(test_data)*100
     return acc
 
 def load_model_for_prediction(saved_model_name):

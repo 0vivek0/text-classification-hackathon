@@ -1,17 +1,7 @@
-import re
-import random
-import numpy as np
-import pandas as pd
-from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
-
-from tqdm import tqdm
+import os
 import tensorflow as tf
 from transformers import AutoTokenizer, TFAutoModelForSequenceClassification
-from datasets import load_dataset
-from transformers import AutoTokenizer
-from transformers import DataCollatorWithPadding
-from datasets import Dataset, DatasetDict
-from transformers import DataCollatorWithPadding
+
 
 from text_preprocessing import *
 
@@ -25,8 +15,21 @@ batch_size = 32
 
 model = TFAutoModelForSequenceClassification.from_pretrained(model_checkpoint, num_labels = num_labels)
 
-
 def model_training_and_saving(dataset, saved_model_name, num_epochs = 3):
+    """
+        Trains a sequence classification model and saves it.
+
+        Args:
+            dataset: The dataset for training and validation.
+            saved_model_name: Path to save the trained model.
+            num_epochs: Number of training epochs (default: 3).
+
+        Returns:
+            str: Path of the saved model.
+
+        The function fine-tunes a pre-trained model using a learning rate schedule and saves the trained model.
+    """
+
     tf_train_dataset, tf_validation_dataset = get_encoded_train_validation_tf_data(dataset)
     num_epochs = num_epochs
     num_train_steps = len(tf_train_dataset) * num_epochs

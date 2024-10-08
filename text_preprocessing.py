@@ -1,16 +1,16 @@
 import warnings
 warnings.filterwarnings("ignore")
 
-import os
+# import os
 import re
-import matplotlib.pyplot as plt
-import copy
+# import matplotlib.pyplot as plt
+# import copy
 import logging
 
-import random
-import numpy as np
+# import random
+# import numpy as np
 import pandas as pd
-import tensorflow as tf
+# import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
 
 
@@ -27,6 +27,15 @@ def remove_tags(text):
     return TAG_RE.sub('', text)
   
 def preprocess_text(sen):
+    """
+        Cleans and preprocesses the input text.
+
+        Args:
+            sen: Input sentence as a string.
+
+        Returns:
+            str: Cleaned sentence with HTML tags, punctuation, and extra spaces removed.
+    """
     # Removing html tags
     sentence = remove_tags(sen)
 
@@ -43,7 +52,16 @@ def preprocess_text(sen):
 
 
 def label_encoder_fit_and_transform(data, column):
-    """Apply operation on training data and return preprocessor"""
+    """
+    Encodes the specified column using label encoding.
+
+    Args:
+        data: DataFrame containing the data.
+        column: Name of the column to encode.
+
+    Returns:
+        DataFrame: DataFrame with the encoded column.
+    """
        # Reset dataframe index to start from 0
     data.reset_index(drop=True, inplace=True)
 
@@ -61,6 +79,14 @@ def label_encoder_fit_and_transform(data, column):
     return data
 
 def generate_train_test_val_data(input_file_path):
+    """
+        Generates train, validation, and test datasets from an input Excel file.
+
+        Args:
+            input_file_path: Path to the input Excel file.
+
+        Saves the split datasets to CSV files.
+    """
     dataset = pd.read_excel(input_file_path)
 
     logging.info(dataset.shape)
@@ -100,9 +126,27 @@ def generate_train_test_val_data(input_file_path):
     df_test.to_csv("Enhanced_Synthetic_Data_Test.csv", index=False)
 
 def preprocess_function(records):
-        return tokenizer(records['Text'], truncation=True, return_token_type_ids=True, max_length = 50)
+    """
+        Tokenizes the text records for model input.
+
+        Args:
+            records: Input records containing text.
+
+        Returns:
+            Tokenized input suitable for model training.
+    """
+    return tokenizer(records['Text'], truncation=True, return_token_type_ids=True, max_length = 50)
 
 def get_encoded_train_validation_tf_data(dataset):
+    """
+        Prepares TensorFlow datasets for training and validation.
+
+        Args:
+            dataset: Dataset containing training and validation data.
+
+        Returns:
+            Tuple: (tf_train_dataset, tf_validation_dataset) prepared for model training.
+    """
     encoded_dataset = dataset.map(preprocess_function, batched=True, )
 
     pre_tokenizer_columns = set(dataset["train"].features)
