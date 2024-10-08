@@ -1,12 +1,12 @@
-Use-case: Prompt Injection Detector:-
+#Prompt Injection Detector:-
 
-Description: Prevent abuse of chatbot by classification prompts received from user as ‘Allowed’ or
-‘‘Restricted’.
+##Description: Prevent abuse of chatbot by classification of prompts received from user.
 
-Objective: Aim is to expose a Rest API which takes a prompt and pre-trained model classify text as
-‘Allowed’ or ‘Restricted;
-Scenario: Prompt Text classification.
-Technical Implementation:
+##Objective: Aim is to expose a Rest API which takes a prompt and pre-trained model classify text as ‘Allowed’ or ‘Restricted;
+
+###Scenario: Prompt Text classification.
+
+###Technical Implementation:
 • Backend: Rest API to be created using FastAPI.
 • Detector must not be a LLM
 • Train custom model based on BERT / TF-IDF, Word2Vec or model of choice.
@@ -14,18 +14,18 @@ Technical Implementation:
 • Training Dataset – will be provided as input along with pre-processor python.
 • Requirement is to create a dataSet, train the model, save custom model and use said model to classify queries.
 
-Tools and Technologies:-
+###Tools and Technologies:-
 FastAPI
 BERT, Huggingface libraries
 Python 3
 Dependencies: Scikit-learn, FastAPI, Uvicorn, Pandas, matplotlib, logging, sentence transformers etc.
 
 
-IDE:-
+###IDE:-
     • VS code
     • Pycharm
 
-Components:
+###Components:
     • Pre-processing (Cleaning, Vectorisation, and Tokenisation)
     • Model training and persistance
     • Prediction (Bulk result generation and single query result)
